@@ -1,0 +1,5 @@
+﻿Norte PIB - 221,50
+Nordeste PIB - 551,00
+Sudeste PIB - 2294,00
+Sul PIB - 671,00
+Centro-Oeste PIB - 395,00
